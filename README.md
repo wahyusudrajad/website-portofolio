@@ -12,7 +12,7 @@ Website portofolio ini dirancang untuk:
 
 ## Tampilan Website
 
-Anda dapat mengunjungi website portofolio saya di [https://hafizaryan.netlify.app](https://hafizaryan.netlify.app). Website ini dirancang dengan menggunakan teknologi berikut:
+Anda dapat mengunjungi website portofolio saya di [https://wahyusudrajad.github.io/website-portofolio/](https://wahyusudrajad.github.io/website-portofolio/). Website ini dirancang dengan menggunakan teknologi berikut:
 
 - HTML
 - CSS Bootstrap 4
